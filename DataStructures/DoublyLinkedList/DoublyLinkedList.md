@@ -116,5 +116,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 This Doubly Linked List implementation is inspired by the concepts taught in computer science courses and various programming resources.
-
-That's a README file for your Doubly Linked List implementation. Feel free to modify and customize it further to suit your needs.
